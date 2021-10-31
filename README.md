@@ -1,2 +1,2 @@
 # food_web-page
-Работала только с javaScript
+В этом проекте работала только с javaScript
